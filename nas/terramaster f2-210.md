@@ -111,6 +111,10 @@ Let's try to get into it from a Windows machine.
 In File Explorere, if we backslash into the IP address of the machine, 
 we can see that it now asks for credentials:
 
-<img width="984" height="458" alt="image" src="https://github.com/user-attachments/assets/fb582ae2-6f44-4e0c-8c1c-e564494aaec9" />
+<img width="570" height="778" alt="image" src="https://github.com/user-attachments/assets/27d8e332-e01b-4076-beaf-abad22572ffc" />
 
+
+And we're in:
+
+<img width="2134" height="321" alt="image" src="https://github.com/user-attachments/assets/d68759e0-71aa-495b-987c-1c2e7adf88d8" />
 
