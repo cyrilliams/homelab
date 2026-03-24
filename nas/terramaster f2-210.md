@@ -75,3 +75,42 @@ We'll confirm our settings and let is create our Storage Pool:
 
 <img width="679" height="505" alt="image" src="https://github.com/user-attachments/assets/699b7006-f792-4d52-ac9d-40088a368e23" />
 
+
+Once setup finishes, we can log in to our NAS:
+
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/1ab359f8-65b8-43b4-89c8-477e5d049df1" />
+
+
+## Create a Network/Share Folder
+
+In TOS, we'll go to **Control Panel > Shared Folder > Shared Folder > Create**
+
+<img width="980" height="451" alt="image" src="https://github.com/user-attachments/assets/57900ade-c810-4645-9655-48887f360a97" />
+
+We'll name it and give it a description; as well as choose the volume it'll be stored on.
+
+
+<img width="932" height="526" alt="image" src="https://github.com/user-attachments/assets/671d9339-da2e-4c1e-93b9-b3ecafbe00ea" />
+
+
+We can also encrypt the folder and set delete retention time here:
+
+<img width="918" height="530" alt="image" src="https://github.com/user-attachments/assets/22c9b274-613f-469a-9931-42a255bba88d" />
+
+Here we can set our user or group access:
+
+<img width="927" height="519" alt="image" src="https://github.com/user-attachments/assets/398cf3fa-9fab-411f-a78c-55d6e4afb178" />
+
+Now we see it's been created. 
+
+<img width="984" height="458" alt="image" src="https://github.com/user-attachments/assets/edd18369-9200-4267-9a84-68532548eeb6" />
+
+
+Let's try to get into it from a Windows machine.
+
+In File Explorere, if we backslash into the IP address of the machine, 
+we can see that it now asks for credentials:
+
+<img width="984" height="458" alt="image" src="https://github.com/user-attachments/assets/fb582ae2-6f44-4e0c-8c1c-e564494aaec9" />
+
+
