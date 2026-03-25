@@ -113,8 +113,18 @@ we can see that it now asks for credentials:
 
 <img width="570" height="778" alt="image" src="https://github.com/user-attachments/assets/27d8e332-e01b-4076-beaf-abad22572ffc" />
 
+**We'll put in the credentials like this:*
+```
+admin
+password
+```
+*No need to specify the IP/name*
 
-And we're in:
+
+We'll use the credentials we created earlier and we're in:
+
+
+
 
 <img width="2134" height="321" alt="image" src="https://github.com/user-attachments/assets/d68759e0-71aa-495b-987c-1c2e7adf88d8" />
 
