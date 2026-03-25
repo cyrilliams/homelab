@@ -1,6 +1,6 @@
 # Terramaster F2-210 Setup
 
-In this doc I'll briefly go over the set up and initizlization for my Terramaster F2-210 NAS that I found at Goodwill!
+In this doc I'll briefly go over the set up and initialization for my Terramaster F2-210 NAS that I found at Goodwill!
 
 ---
 
@@ -20,8 +20,15 @@ I think I'll set up RAID 1 for redundancy.
 Logically, it'll look like 1 drive of 6TBs but protect me if 1 drive goes down.
 
 ```
-HDD00 - 6TB    ➡️: LOGICAL DRIVE 6TB
+HDD00 - 6TB    
 HDD01 - 6TB
+  |
+  |
+  |
+  |
+  |
+  ➡️: LOGICAL DRIVE 6TB
+  
   
 ```
 
@@ -81,7 +88,7 @@ Once setup finishes, we can log in to our NAS:
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/1ab359f8-65b8-43b4-89c8-477e5d049df1" />
 
 
-## Create a Network/Share Folder
+## Create a Network Folder/Shared Folder
 
 In TOS, we'll go to **Control Panel > Shared Folder > Shared Folder > Create**
 
@@ -108,7 +115,7 @@ Now we see it's been created.
 
 Let's try to get into it from a Windows machine.
 
-In File Explorere, if we backslash into the IP address of the machine, 
+In File Explorer, if we backslash into the IP address of the machine, 
 we can see that it now asks for credentials:
 
 <img width="570" height="778" alt="image" src="https://github.com/user-attachments/assets/27d8e332-e01b-4076-beaf-abad22572ffc" />
