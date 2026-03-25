@@ -1,5 +1,8 @@
 # homelab
 
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/bb7972b0-919a-4940-8fec-4f73b0dd8016" />
+
+
 homelab repo where i do homelab stuff
 
 ---
