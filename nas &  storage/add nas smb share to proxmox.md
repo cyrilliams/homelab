@@ -1,4 +1,4 @@
-# Add NAS to Proxmox
+# Add NAS SMB/CFIS Share to Proxmox
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/288a7ef0-609c-4652-bb4d-6394a33fa23f" />
 
