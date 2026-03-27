@@ -1,6 +1,8 @@
 # Set Up a Reverse Proxy with NGINX
 
-<img width="444" height="512" alt="image" src="https://github.com/user-attachments/assets/ffef70a9-666b-4ad3-8027-2c53d9382eb8" />
+
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/9d52b1da-1603-4277-b597-81fb85a220b5" />
+
 
 ---
 
