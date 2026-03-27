@@ -1,4 +1,4 @@
-#VPN Using WireGuard (with WG Dashboard)
+# VPN Using WireGuard (with WG Dashboard)
 
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/07a9c493-3ce8-4c0a-9382-aa198cb46ce8" />
 
