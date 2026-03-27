@@ -75,18 +75,19 @@ We will not get notifications because we have not configured the 'Body Selector'
 
 ## Configure Data Extraction
 
-The only thing I'll configure is the 'Body Selector' which will esentially be the body of the notifcation.
+The only thing I'll configure is the 'Body Selector' which will essentially be the body of the notification.
 This will stem from the Payload JSON.
 
 I'll configure the following things:
 
-Title Selector: ``` $.repository.full_name```
 
-Body Selector: `` $.zen``
+Title Selector: ``` {{repository.full_name}}```
 
-URL Selector: ``$.repository.html_url``
+Body Selector: ``{{pusher.name}} pushed: {{head_commit.message}}``
 
-URL Title Selector: ``$.repository.name``
+URL Selector: ``{{head_commit.url}}``
+
+URL Title Selector: ``{{repository.name}}``
 
 We can use the Test Selectors button to verify they match the Payload
 
@@ -94,6 +95,18 @@ We can use the Test Selectors button to verify they match the Payload
 
 We can see that it not only matches but gives me what I will see in my notifications.
 
+## Test and Verify: Notifications
+
+*You'll need to install the Pushover app and sign in*
+
+
 Let's test it out on my phone:
 
+<img width="828" height="503" alt="image" src="https://github.com/user-attachments/assets/54fee427-9847-48e4-9ab4-bbbf23c343e6" />
 
+
+Nice!
+
+If we click the 'Open URL' button, it goes straight to the update:
+
+<img width="370" height="800" alt="image" src="https://github.com/user-attachments/assets/1ba95fad-136e-4814-9ad8-677a19094f09" />
