@@ -35,6 +35,11 @@ click 'Auto detect my public IP address', and how often to update:
 
 <img width="541" height="454" alt="image" src="https://github.com/user-attachments/assets/8d232196-48ad-4417-9fee-6336fc568c21" />
 
+You'll also need to update and add all variations of the domain/or different domains:
+
+<img width="557" height="471" alt="image" src="https://github.com/user-attachments/assets/77f79a13-ff92-407f-956c-0a9dc62f2f11" />
+
+
 ## Verify Change
 
 This is the part that is time consuming because we have to wait for our ISP to hand us a new lease on a public IP.
