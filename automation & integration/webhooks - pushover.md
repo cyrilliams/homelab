@@ -90,6 +90,10 @@ URL Title Selector: ``$.repository.name``
 
 We can use the Test Selectors button to verify they match the Payload
 
-<img width="1033" height="775" alt="image" src="https://github.com/user-attachments/assets/737fd677-1652-45b0-910c-0d61bcf00c41" />
+<img width="993" height="799" alt="image" src="https://github.com/user-attachments/assets/28cfbd8a-908e-4903-a231-6ebec3171295" />
+
+We can see that it not only matches but gives me what I will see in my notifications.
+
+Let's test it out on my phone:
 
 
