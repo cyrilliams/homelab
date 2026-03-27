@@ -90,6 +90,6 @@ URL Title Selector: ``$.repository.name``
 
 We can use the Test Selectors button to verify they match the Payload
 
-<img width="1108" height="668" alt="image" src="https://github.com/user-attachments/assets/3322373d-6a01-4279-8fd3-c828285bafd9" />
+<img width="1033" height="775" alt="image" src="https://github.com/user-attachments/assets/737fd677-1652-45b0-910c-0d61bcf00c41" />
 
 
