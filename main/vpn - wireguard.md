@@ -123,6 +123,15 @@ Here is the IP of the remote machine:
 
 <img width="461" height="233" alt="9" src="https://github.com/user-attachments/assets/f3450dd5-86d2-4acc-8eea-21fb6ebae0ed" />
 
+### Server/Container Side
+
+We can see that traffic is being recieved:
+
+<img width="2107" height="1215" alt="image" src="https://github.com/user-attachments/assets/01f8084b-372f-46a1-87da-de057a37823f" />
+
+And peer1 is active:
+
+<img width="709" height="314" alt="image" src="https://github.com/user-attachments/assets/1a758492-8f03-47a2-a8c5-ad70c21361e6" />
 
 
 ---
