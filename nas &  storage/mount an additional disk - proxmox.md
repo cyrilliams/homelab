@@ -46,3 +46,9 @@ Now we can see the disk was mounted if we go back to Disks:
 
 <img width="1553" height="198" alt="image" src="https://github.com/user-attachments/assets/8e3789f3-9cd5-410f-ab42-7f7dc31eca9c" />
 
+
+---
+
+## Resources:
+
+https://www.youtube.com/watch?v=tKD-dgSKBxU&t=31s
